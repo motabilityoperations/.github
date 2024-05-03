@@ -1,0 +1,9 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:recommended",
+    "github>motabilityoperations/renovate-config:groupNonMajorUpdates",
+    "github>motabilityoperations/renovate-config:autoMergeNonMajorUpdates",
+    "github>motabilityoperations/renovate-config:noPrCreationLimit"
+  ]
+}
