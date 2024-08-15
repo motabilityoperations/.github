@@ -1,7 +1,7 @@
 # Motability Operations
 
 We are Motability Operations, the commercial organisation that delivers the
-**Motability Scheme** to over **700,000** disabled people across the UK.
+**Motability Scheme** to over **800,000** disabled people across the UK.
 
 We deliver **smart**, **sustainable** solutions that **improve our customers’
 mobility** in a fast-changing world.
